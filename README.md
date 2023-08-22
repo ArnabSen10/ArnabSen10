@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArnabSen10
 - 👀 I’m interested in problem solving and creating Websites
 - 🌱 I’m currently learning Back-end Development 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Front end Web Development 
 - 📫 How to reach me ... arnabsen915@gmail.com
 
 <!---
