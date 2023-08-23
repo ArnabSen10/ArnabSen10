@@ -7,7 +7,7 @@
 
 - 💬 Ask me about *C,Java,C++,Python,FullStack(HTML,CSS,JS,Bootstrap,Tailwind,NodeJS etc)*
   
-- ⚡Connected with the physical world through football.
+- ⚡Connected with the physical world through football
  
 - 📫 How to reach me **arnabsen915@gmail.com**
   
