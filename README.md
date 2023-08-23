@@ -3,12 +3,14 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnabsen10&label=Profile%20views&color=0e75b6&style=flat" alt="arnabsen10" /> </p>
-- 🌱 I’m currently learning *C,Java,C++,Python,FullStack(HTML,CSS,JS,Bootstrap,Tailwind,NodeJS etc)*
+- 🌱 I’m currently learning *C,Java,C++,Python,FullStack Development*
 
 - 💬 Ask me about *C,Java,C++,Python,FullStack(HTML,CSS,JS,Bootstrap,Tailwind,NodeJS etc)*
-
+  
+- ⚡Connected with the physical world through football.
+ 
 - 📫 How to reach me **arnabsen915@gmail.com**
-
+  
 - ⚡ "Chasing zeros and ones to create a world of infinite possibilities."
 <h3 align="left">Connect with me:</h3>
 <p align="left">
